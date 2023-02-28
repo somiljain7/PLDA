@@ -17,6 +17,6 @@
 3. KALDI 
   
   - https://github.com/kaldi-asr/kaldi/blob/master/src/ivectorbin/ivector-compute-plda.cc
-  - 
+  - https://github.com/kaldi-asr/kaldi/blob/master/src/ivector/plda.h#L148
 
 ############################################

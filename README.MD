@@ -26,10 +26,10 @@
 
 4. miscellaneous
 
-# 1. https://www.ll.mit.edu/sites/default/files/publication/doc/discriminative-PLDA-speaker-verification-borgstrom-121037.pdf
-# 2. https://medium.com/mlearning-ai/plda-a07405127e3e
-# 3. https://towardsdatascience.com/probabilistic-linear-discriminant-analysis-plda-explained-253b5effb96
-# 4. https://github.com/RaviSoji/plda
-# 5. https://medium.com/nerd-for-tech/linear-discriminant-analysis-c24d9729d3d2
-# 6. https://github.com/DingKe/ml-tutorial/blob/master/plda/plda.py
+- 1. https://www.ll.mit.edu/sites/default/files/publication/doc/discriminative-PLDA-speaker-verification-borgstrom-121037.pdf
+- 2. https://medium.com/mlearning-ai/plda-a07405127e3e
+- 3. https://towardsdatascience.com/probabilistic-linear-discriminant-analysis-plda-explained-253b5effb96
+- 4. https://github.com/RaviSoji/plda
+- 5. https://medium.com/nerd-for-tech/linear-discriminant-analysis-c24d9729d3d2
+- 6. https://github.com/DingKe/ml-tutorial/blob/master/plda/plda.py
 
